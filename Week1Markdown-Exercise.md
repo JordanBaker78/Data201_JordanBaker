@@ -5,12 +5,12 @@
 ### Date: February 15, 2026
 
 
-#### List of my Favorite Things
+#### List of my **Favorite** Things
 1. Reading
 2. Math
 3. Youtube
 4. Sports
-##### Honorable Mentions
+##### *Honorable Mentions*
 - Psychology
 - Cars
 - Food
